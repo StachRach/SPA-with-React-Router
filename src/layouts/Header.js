@@ -8,7 +8,7 @@ const Header = () => {
    return (
       <>
          <Routes>
-            <Route path={"/"} element={<Image index={0}/>}/>
+            <Route path={process.env.PUBLIC_URL} element={<Image index={0}/>}/>
             <Route path="/products" element={<Image index={1}/>}/>
             <Route path="/contact" element={<Image index={2}/>}/>
             <Route path="/admin" element={<Image index={3}/>}/>
