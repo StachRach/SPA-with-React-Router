@@ -1,0 +1,18 @@
+{
+  "main.css": "/SPA-with-React-Router/static/css/main.b2beabe0.chunk.css",
+  "main.js": "/SPA-with-React-Router/static/js/main.82089506.chunk.js",
+  "main.js.map": "/SPA-with-React-Router/static/js/main.82089506.chunk.js.map",
+  "runtime~main.js": "/SPA-with-React-Router/static/js/runtime~main.c2c9ce9e.js",
+  "runtime~main.js.map": "/SPA-with-React-Router/static/js/runtime~main.c2c9ce9e.js.map",
+  "static/js/2.9a9fd2af.chunk.js": "/SPA-with-React-Router/static/js/2.9a9fd2af.chunk.js",
+  "static/js/2.9a9fd2af.chunk.js.map": "/SPA-with-React-Router/static/js/2.9a9fd2af.chunk.js.map",
+  "index.html": "/SPA-with-React-Router/index.html",
+  "precache-manifest.8a7d414142a7d7da62e06728f8993d86.js": "/SPA-with-React-Router/precache-manifest.8a7d414142a7d7da62e06728f8993d86.js",
+  "service-worker.js": "/SPA-with-React-Router/service-worker.js",
+  "static/css/main.b2beabe0.chunk.css.map": "/SPA-with-React-Router/static/css/main.b2beabe0.chunk.css.map",
+  "static/media/404.jpg": "/SPA-with-React-Router/static/media/404.dd481af3.jpg",
+  "static/media/header1.jpg": "/SPA-with-React-Router/static/media/header1.70e6670e.jpg",
+  "static/media/header2.jpg": "/SPA-with-React-Router/static/media/header2.33eca35f.jpg",
+  "static/media/header3.jpg": "/SPA-with-React-Router/static/media/header3.d9d36b65.jpg",
+  "static/media/header4.jpeg": "/SPA-with-React-Router/static/media/header4.87601e4e.jpeg"
+}
