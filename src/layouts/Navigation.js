@@ -2,11 +2,14 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import '../styles/Navigation.css';
 
+const {permission} = require("../pages/AdminPage");
+const address = permission ? "/admin" : "/login";
+
 const list = [
    {name: "Home", path: "/"},
    {name: "Products", path: "/products"},
    {name: "Contact", path: "/contact"},
-   {name: "Admin Panel", path: "/admin"},
+   {name: "Admin Panel", path: address},
 ];
 
 const Navigation = () => {

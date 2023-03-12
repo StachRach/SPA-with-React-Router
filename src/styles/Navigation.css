@@ -20,7 +20,7 @@ nav.main a:hover {
    transform: translateX(20px);
 }
 
-nav.main a.active {
+nav.main li a.active {
    border-left: 10px magenta solid;
    transform: translateX(0);
 }
