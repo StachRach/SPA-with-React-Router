@@ -1,0 +1,25 @@
+.login label {
+   display: block;
+   font-size: 15px;
+}
+
+.login input {
+   margin: 10px 0 0 0;
+   height: 30px;
+}
+
+.login button {
+   display: block;
+   border: 2px solid black;
+   background-color: white;
+   padding: 10px 20px;
+   cursor: pointer;
+   font-size: 20px;
+   margin: 0 0 0 auto;
+   transition: .2s;
+}
+
+.login button:hover {
+   background-color: darkgrey;
+   color: red;
+}
