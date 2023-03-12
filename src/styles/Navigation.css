@@ -21,7 +21,7 @@ nav.main a:hover {
 }
 
 nav.main a.active {
-   border-left: magenta;
+   border-left: 10px magenta solid;
    transform: translateX(0);
 }
 
