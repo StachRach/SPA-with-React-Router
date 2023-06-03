@@ -1,7 +1,7 @@
 # Single Page Application
 
-The application does not have much sense, it was created to learn basics of React Router v6. It has a few routes and basic forms.
+The application was made as part of a course on Udemy. It was modified to work with React Router v6.
 
-Created with:
-- React
-- React Router
+# TODO
+- Application is outdated, rewrite app to work with hooks.
+- Add global state with React Redux.
